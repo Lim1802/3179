@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+        #vis {
+            width: 100%;
+            height: 100vh;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="vis"></div>
+    
+
+    <script>
+        const spec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": "container",
+            "height": "container",
+            "title": "Population of Malaysian Districts (2020 to 2023)",
+            "description": "Population of Malaysian Districts with Graticules and Saturated Boundaries",
+            "projection": {"type": "mercator"},
+            "layer": [
+                {
+                    "data": {
+                        "url": "ne_110m_graticules_5.json",
+                        "format": {
+                            "type": "topojson",
+                            "feature": "ne_110m_graticules_5"
+                        }
+                    },
+                    "mark": {
+                        "type": "geoshape",
+                        "stroke": "black",
+                        "strokeWidth": 0.5,
+                        "fill": null
+                    }
+                },
+                {
+                    "data": {
+                        "url": "formatted_population_district_with_year.csv"
+                    },
+                    "transform": [
+                        {"calculate": "datum.population ", "as": "populationT"},
+                        {"calculate": "datum.population / 1000", "as": "population"},
+
+                        {"filter": "datum.year == year"},
+                        {
+                            "lookup": "district",
+                            "from": {
+                                "data": {
+                                    "url": "malaysia-states2.json",
+                                    "format": {"type": "topojson", "feature": "MYSADM2gbOpen"}
+                                },
+                                "key": "properties.shapeName"
+                            },
+                            "as": "geo"
+                        }
+                    ],
+                    "mark": {
+                        "type": "geoshape",
+                        "stroke": "#000080",  // Dark blue stroke for saturated boundaries
+                        "strokeWidth": 0.5,
+                        "strokeOpacity": 0.8
+                    },
+                    "encoding": {
+                        "shape": {"field": "geo", "type": "geojson"},
+                        "color": {
+                            "field": "population",
+                            "type": "quantitative",
+                            "scale": {
+                                "type": "sqrt",
+                                "scheme": "darkblue",
+                                "reverse": true,
+                            },
+                            "title": "Population percentage"
+                        },
+                        "tooltip": [
+                            {"field": "district", "type": "nominal", "title": "District"},
+                            {"field": "population", "type": "quantitative", "title": "Population%", "format": ",.2f"},
+                            {"field": "populationT", "type": "quantitative", "title": "Population('000')"},
+                            {"field": "year", "type": "quantitative", "title": "Year"}
+                        ]
+                    }
+                }
+            ],
+            "params": [
+                { 
+                    "name" : "year", 
+                    "value": 2020,
+                    "bind" : {"input": "range", "min":2020, "max":2023,"step":1 }
+                }
+            ],
+            "config": {
+                "title": {
+                    "fontSize": 54,
+                    "font": "Times New Roman",
+                    "anchor": "middle",
+                    "color": "black"
+                },
+                "legend": {
+                    "titleFontSize": 16,
+                    "titleFont": "Arial",
+                    "titleColor": "black",
+                    "titlePadding": 10,
+                    "labelFontSize": 19,
+                    "labelFont": "Arial",
+                    "labelColor": "black",
+                    "symbolSize": 100,
+                    "gradientThickness": 30,
+                    "offset": 10
+                }
+            }
+        };
+
+        vegaEmbed('#vis', spec, {actions: false}).then(result => {
+            console.log('Visualization created successfully');
+        }).catch(error => {
+            console.error('Error creating visualization:', error);
+        });
+    </script>
+</body>
+</html>

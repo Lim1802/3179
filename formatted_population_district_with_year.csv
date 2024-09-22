@@ -1,0 +1,641 @@
+district,year,population
+Alor Gajah,2020,997.6
+Alor Gajah,2021,1003.6
+Alor Gajah,2022,1007.2
+Alor Gajah,2023,1024.3
+Asajaya,2020,134.8
+Asajaya,2021,135.0
+Asajaya,2022,136.7
+Asajaya,2023,138.1
+Bachok,2020,629.1
+Bachok,2021,635.5
+Bachok,2022,642.8
+Bachok,2023,652.0
+Bagan Datuk,2020,331.3
+Bagan Datuk,2021,334.4
+Bagan Datuk,2022,329.2
+Bagan Datuk,2023,331.3
+Baling,2020,570.2
+Baling,2021,577.3
+Baling,2022,579.9
+Baling,2023,586.3
+Bandar Baharu,2020,177.6
+Bandar Baharu,2021,178.0
+Bandar Baharu,2022,178.7
+Bandar Baharu,2023,180.3
+Barat Daya,2020,950.8
+Barat Daya,2021,953.9
+Barat Daya,2022,958.4
+Barat Daya,2023,975.5
+Batang Padang,2020,496.2
+Batang Padang,2021,505.1
+Batang Padang,2022,502.6
+Batang Padang,2023,505.0
+Batu Pahat,2020,1981.6
+Batu Pahat,2021,1988.7
+Batu Pahat,2022,1990.0
+Batu Pahat,2023,2013.9
+Bau,2020,210.3
+Bau,2021,211.5
+Bau,2022,212.2
+Bau,2023,214.2
+Beaufort,2020,303.0
+Beaufort,2021,305.6
+Beaufort,2022,304.4
+Beaufort,2023,308.1
+Belaga,2020,90.1
+Belaga,2021,91.1
+Belaga,2022,90.3
+Belaga,2023,91.9
+Beluran,2020,308.6
+Beluran,2021,321.9
+Beluran,2022,305.0
+Beluran,2023,335.2
+Beluru,2020,114.8
+Beluru,2021,117.3
+Beluru,2022,112.0
+Beluru,2023,113.6
+Bentong,2020,467.4
+Bentong,2021,462.8
+Bentong,2022,467.0
+Bentong,2023,478.1
+Bera,2020,392.9
+Bera,2021,392.3
+Bera,2022,395.6
+Bera,2023,400.2
+Besut,2020,616.6
+Besut,2021,626.8
+Besut,2022,637.3
+Besut,2023,650.4
+Betong,2020,145.1
+Betong,2021,145.0
+Betong,2022,145.9
+Betong,2023,147.1
+Bintulu,2020,714.2
+Bintulu,2021,707.8
+Bintulu,2022,718.3
+Bintulu,2023,746.1
+Bukit Mabong,2020,40.5
+Bukit Mabong,2021,40.8
+Bukit Mabong,2022,41.3
+Bukit Mabong,2023,41.9
+Cameron Highlands,2020,156.3
+Cameron Highlands,2021,154.6
+Cameron Highlands,2022,157.2
+Cameron Highlands,2023,163.3
+Dalat,2020,85.0
+Dalat,2021,84.6
+Dalat,2022,84.9
+Dalat,2023,87.2
+Daro,2020,77.8
+Daro,2021,78.5
+Daro,2022,78.0
+Daro,2023,80.3
+Dungun,2020,632.4
+Dungun,2021,642.8
+Dungun,2022,650.2
+Dungun,2023,660.9
+Gombak,2020,3769.4
+Gombak,2021,3792.1
+Gombak,2022,3801.2
+Gombak,2023,3862.4
+Gua Musang,2020,407.8
+Gua Musang,2021,410.4
+Gua Musang,2022,416.3
+Gua Musang,2023,428.4
+Hilir Perak,2020,567.8
+Hilir Perak,2021,580.2
+Hilir Perak,2022,569.0
+Hilir Perak,2023,567.2
+Hulu Perak,2020,380.2
+Hulu Perak,2021,381.6
+Hulu Perak,2022,383.5
+Hulu Perak,2023,388.3
+Hulu Terengganu,2020,279.5
+Hulu Terengganu,2021,286.3
+Hulu Terengganu,2022,289.3
+Hulu Terengganu,2023,294.7
+Jasin,2020,608.0
+Jasin,2021,623.7
+Jasin,2022,615.5
+Jasin,2023,617.1
+Jelebu,2020,184.6
+Jelebu,2021,183.1
+Jelebu,2022,184.9
+Jelebu,2023,189.7
+Jeli,2020,218.8
+Jeli,2021,222.5
+Jeli,2022,224.3
+Jeli,2023,227.0
+Jempol,2020,509.2
+Jempol,2021,508.6
+Jempol,2022,510.4
+Jempol,2023,517.7
+Jerantut,2020,383.8
+Jerantut,2021,384.2
+Jerantut,2022,388.3
+Jerantut,2023,394.2
+Johor Bahru,2020,6844.9
+Johor Bahru,2021,6861.8
+Johor Bahru,2022,6894.8
+Johor Bahru,2023,7034.1
+Julau,2020,61.4
+Julau,2021,61.7
+Julau,2022,61.6
+Julau,2023,61.9
+Kabong,2020,74.0
+Kabong,2021,74.1
+Kabong,2022,74.2
+Kabong,2023,75.3
+Kalabakan,2020,192.7
+Kalabakan,2021,201.0
+Kalabakan,2022,186.5
+Kalabakan,2023,213.0
+Kampar,2020,394.9
+Kampar,2021,393.1
+Kampar,2022,392.3
+Kampar,2023,395.0
+Kanowit,2020,98.8
+Kanowit,2021,98.4
+Kanowit,2022,98.3
+Kanowit,2023,99.6
+Kapit,2020,144.1
+Kapit,2021,144.4
+Kapit,2022,144.6
+Kapit,2023,146.5
+Kecil Lojing,2020,42.1
+Kecil Lojing,2021,42.4
+Kecil Lojing,2022,42.9
+Kecil Lojing,2023,44.1
+Kemaman,2020,862.2
+Kemaman,2021,875.1
+Kemaman,2022,887.0
+Kemaman,2023,906.1
+Keningau,2020,603.7
+Keningau,2021,604.9
+Keningau,2022,612.8
+Keningau,2023,624.0
+Kerian,2020,665.6
+Kerian,2021,671.4
+Kerian,2022,669.9
+Kerian,2023,673.6
+Kinabatangan,2020,572.2
+Kinabatangan,2021,541.5
+Kinabatangan,2022,552.5
+Kinabatangan,2023,596.1
+Kinta,2020,3555.1
+Kinta,2021,3574.4
+Kinta,2022,3583.4
+Kinta,2023,3635.1
+Klang,2020,4355.6
+Klang,2021,4314.8
+Klang,2022,4376.8
+Klang,2023,4531.2
+Kluang,2020,1295.2
+Kluang,2021,1301.4
+Kluang,2022,1294.1
+Kluang,2023,1312.1
+Kota Belud,2020,429.2
+Kota Belud,2021,433.9
+Kota Belud,2022,433.0
+Kota Belud,2023,438.2
+Kota Bharu,2020,2223.1
+Kota Bharu,2021,2250.0
+Kota Bharu,2022,2270.0
+Kota Bharu,2023,2301.8
+Kota Kinabalu,2020,2001.7
+Kota Kinabalu,2021,1985.5
+Kota Kinabalu,2022,2003.2
+Kota Kinabalu,2023,2101.5
+Kota Marudu,2020,278.2
+Kota Marudu,2021,281.3
+Kota Marudu,2022,284.3
+Kota Marudu,2023,289.5
+Kota Setar,2020,1496.3
+Kota Setar,2021,1505.0
+Kota Setar,2022,1507.7
+Kota Setar,2023,1516.5
+Kota Tinggi,2020,889.8
+Kota Tinggi,2021,894.6
+Kota Tinggi,2022,899.7
+Kota Tinggi,2023,915.1
+Kuala Kangsar,2020,704.1
+Kuala Kangsar,2021,705.2
+Kuala Kangsar,2022,706.8
+Kuala Kangsar,2023,712.6
+Kuala Krai,2020,420.2
+Kuala Krai,2021,423.6
+Kuala Krai,2022,428.5
+Kuala Krai,2023,436.8
+Kuala Langat,2020,1230.0
+Kuala Langat,2021,1249.2
+Kuala Langat,2022,1258.0
+Kuala Langat,2023,1280.9
+Kuala Muda,2020,2180.3
+Kuala Muda,2021,2185.4
+Kuala Muda,2022,2202.0
+Kuala Muda,2023,2238.0
+Kuala Nerus,2020,582.6
+Kuala Nerus,2021,597.6
+Kuala Nerus,2022,604.5
+Kuala Nerus,2023,614.2
+Kuala Penyu,2020,95.1
+Kuala Penyu,2021,94.5
+Kuala Penyu,2022,94.9
+Kuala Penyu,2023,97.0
+Kuala Pilah,2020,281.3
+Kuala Pilah,2021,280.1
+Kuala Pilah,2022,281.9
+Kuala Pilah,2023,285.0
+Kuala Selangor,2020,1126.4
+Kuala Selangor,2021,1140.2
+Kuala Selangor,2022,1150.6
+Kuala Selangor,2023,1171.9
+Kuala Terengganu,2020,919.3
+Kuala Terengganu,2021,934.2
+Kuala Terengganu,2022,946.7
+Kuala Terengganu,2023,963.6
+Kuantan,2020,2192.0
+Kuantan,2021,2218.4
+Kuantan,2022,2231.8
+Kuantan,2023,2263.4
+Kubang Pasu,2020,951.0
+Kubang Pasu,2021,994.7
+Kubang Pasu,2022,999.0
+Kubang Pasu,2023,1005.7
+Kuching,2020,2436.9
+Kuching,2021,2449.8
+Kuching,2022,2463.3
+Kuching,2023,2486.5
+Kudat,2020,345.9
+Kudat,2021,343.8
+Kudat,2022,348.9
+Kudat,2023,362.5
+Kulai,2020,1317.7
+Kulai,2021,1313.0
+Kulai,2022,1317.1
+Kulai,2023,1358.3
+Kulim,2020,1350.5
+Kulim,2021,1356.4
+Kulim,2022,1365.3
+Kulim,2023,1385.0
+Kunak,2020,275.5
+Kunak,2021,267.8
+Kunak,2022,271.3
+Kunak,2023,304.5
+Lahad Datu,2020,916.5
+Lahad Datu,2021,932.9
+Lahad Datu,2022,907.8
+Lahad Datu,2023,964.8
+Langkawi,2020,376.5
+Langkawi,2021,380.5
+Langkawi,2022,385.6
+Langkawi,2023,392.1
+Larut Dan Matang,2020,1078.2
+Larut Dan Matang,2021,1089.0
+Larut Dan Matang,2022,1090.5
+Larut Dan Matang,2023,1101.7
+Lawas,2020,146.5
+Lawas,2021,147.8
+Lawas,2022,148.5
+Lawas,2023,151.5
+Limbang,2020,180.2
+Limbang,2021,181.4
+Limbang,2022,182.8
+Limbang,2023,184.6
+Lipis,2020,386.4
+Lipis,2021,386.2
+Lipis,2022,391.3
+Lipis,2023,400.3
+Lubok Antu,2020,98.0
+Lubok Antu,2021,99.2
+Lubok Antu,2022,98.5
+Lubok Antu,2023,98.3
+Lundu,2020,133.9
+Lundu,2021,134.9
+Lundu,2022,135.3
+Lundu,2023,137.3
+Machang,2020,440.4
+Machang,2021,451.7
+Machang,2022,455.9
+Machang,2023,460.5
+Manjung,2020,987.9
+Manjung,2021,1000.5
+Manjung,2022,998.4
+Manjung,2023,1009.0
+Maradong,2020,81.1
+Maradong,2021,81.4
+Maradong,2022,82.1
+Maradong,2023,82.6
+Maran,2020,448.7
+Maran,2021,454.3
+Maran,2022,458.8
+Maran,2023,468.2
+Marang,2020,466.3
+Marang,2021,477.8
+Marang,2022,485.9
+Marang,2023,495.8
+Marudi,2020,75.4
+Marudi,2021,76.9
+Marudi,2022,75.6
+Marudi,2023,76.0
+Matu,2020,65.2
+Matu,2021,66.1
+Matu,2022,65.4
+Matu,2023,66.8
+Melaka Tengah,2020,2388.5
+Melaka Tengah,2021,2390.8
+Melaka Tengah,2022,2411.4
+Melaka Tengah,2023,2468.0
+Mersing,2020,313.1
+Mersing,2021,315.2
+Mersing,2022,316.1
+Mersing,2023,320.6
+Miri,2020,995.3
+Miri,2021,1001.7
+Miri,2022,1005.1
+Miri,2023,1020.5
+Muallim,2020,306.7
+Muallim,2021,312.0
+Muallim,2022,312.0
+Muallim,2023,314.4
+Muar,2020,1259.2
+Muar,2021,1263.1
+Muar,2022,1255.6
+Muar,2023,1273.9
+Mukah,2020,169.1
+Mukah,2021,171.6
+Mukah,2022,170.0
+Mukah,2023,171.9
+Nabawan,2020,113.6
+Nabawan,2021,114.6
+Nabawan,2022,117.0
+Nabawan,2023,120.6
+Padang Terap,2020,262.6
+Padang Terap,2021,265.3
+Padang Terap,2022,266.0
+Padang Terap,2023,268.0
+Pakan,2020,61.5
+Pakan,2021,61.8
+Pakan,2022,62.2
+Pakan,2023,62.5
+Papar,2020,603.1
+Papar,2021,604.9
+Papar,2022,610.5
+Papar,2023,618.4
+Pasir Mas,2020,921.5
+Pasir Mas,2021,928.0
+Pasir Mas,2022,936.5
+Pasir Mas,2023,949.0
+Pasir Puteh,2020,544.4
+Pasir Puteh,2021,550.0
+Pasir Puteh,2022,555.8
+Pasir Puteh,2023,562.9
+Pekan,2020,484.8
+Pekan,2021,490.3
+Pekan,2022,493.9
+Pekan,2023,503.4
+Penampang,2020,649.0
+Penampang,2021,662.3
+Penampang,2022,652.6
+Penampang,2023,662.7
+Pendang,2020,395.5
+Pendang,2021,397.2
+Pendang,2022,399.2
+Pendang,2023,402.6
+Perak Tengah,2020,378.5
+Perak Tengah,2021,380.2
+Perak Tengah,2022,382.5
+Perak Tengah,2023,388.5
+Perlis,2020,1139.6
+Perlis,2021,1150.5
+Perlis,2022,1158.9
+Perlis,2023,1170.8
+Petaling,2020,9192.4
+Petaling,2021,9262.7
+Petaling,2022,9219.7
+Petaling,2023,9336.8
+Pitas,2020,146.7
+Pitas,2021,148.5
+Pitas,2022,149.2
+Pitas,2023,151.7
+Pokok Sena,2020,199.2
+Pokok Sena,2021,199.7
+Pokok Sena,2022,200.5
+Pokok Sena,2023,201.7
+Pontian,2020,693.2
+Pontian,2021,696.6
+Pontian,2022,694.5
+Pontian,2023,702.0
+Port Dickson,2020,515.0
+Port Dickson,2021,515.9
+Port Dickson,2022,520.7
+Port Dickson,2023,530.9
+Pusa,2020,78.2
+Pusa,2021,78.2
+Pusa,2022,78.4
+Pusa,2023,80.3
+Putatan,2020,275.2
+Putatan,2021,276.8
+Putatan,2022,276.7
+Putatan,2023,280.7
+Ranau,2020,340.2
+Ranau,2021,345.8
+Ranau,2022,345.4
+Ranau,2023,350.4
+Raub,2020,384.5
+Raub,2021,384.0
+Raub,2022,387.3
+Raub,2023,395.3
+Rembau,2020,189.4
+Rembau,2021,189.9
+Rembau,2022,190.9
+Rembau,2023,194.0
+Rompin,2020,392.5
+Rompin,2021,402.0
+Rompin,2022,401.4
+Rompin,2023,406.2
+Sabak Bernam,2020,428.4
+Sabak Bernam,2021,429.9
+Sabak Bernam,2022,431.4
+Sabak Bernam,2023,436.5
+Samarahan,2020,513.1
+Samarahan,2021,530.5
+Samarahan,2022,534.0
+Samarahan,2023,538.4
+Sandakan,2020,1756.1
+Sandakan,2021,1728.2
+Sandakan,2022,1741.3
+Sandakan,2023,1878.7
+Saratok,2020,92.6
+Saratok,2021,92.5
+Saratok,2022,92.8
+Saratok,2023,93.4
+Sarikei,2020,176.3
+Sarikei,2021,177.0
+Sarikei,2022,177.7
+Sarikei,2023,178.9
+Sebauh,2020,118.9
+Sebauh,2021,112.7
+Sebauh,2022,116.4
+Sebauh,2023,127.4
+Seberang Perai Selatan,2020,735.7
+Seberang Perai Selatan,2021,745.9
+Seberang Perai Selatan,2022,741.8
+Seberang Perai Selatan,2023,745.9
+Seberang Perai Tengah,2020,1691.8
+Seberang Perai Tengah,2021,1686.3
+Seberang Perai Tengah,2022,1690.9
+Seberang Perai Tengah,2023,1733.4
+Seberang Perai Utara,2020,1356.3
+Seberang Perai Utara,2021,1359.3
+Seberang Perai Utara,2022,1365.6
+Seberang Perai Utara,2023,1386.1
+Segamat,2020,791.1
+Segamat,2021,789.6
+Segamat,2022,792.9
+Segamat,2023,806.2
+Selama,2020,137.5
+Selama,2021,137.8
+Selama,2022,138.2
+Selama,2023,139.3
+Selangau,2020,78.7
+Selangau,2021,78.9
+Selangau,2022,79.7
+Selangau,2023,81.4
+Semporna,2020,666.2
+Semporna,2021,641.9
+Semporna,2022,661.3
+Semporna,2023,743.8
+Sepang,2020,1301.2
+Sepang,2021,1322.6
+Sepang,2022,1326.3
+Sepang,2023,1354.1
+Seremban,2020,2769.5
+Seremban,2021,2784.5
+Seremban,2022,2787.6
+Seremban,2023,2820.7
+Serian,2020,341.4
+Serian,2021,342.3
+Serian,2022,344.1
+Serian,2023,348.1
+Setiu,2020,238.6
+Setiu,2021,242.2
+Setiu,2022,246.4
+Setiu,2023,251.7
+Sibu,2020,992.3
+Sibu,2021,990.5
+Sibu,2022,996.3
+Sibu,2023,1016.0
+Sik,2020,271.9
+Sik,2021,272.8
+Sik,2022,274.5
+Sik,2023,276.3
+Simunjan,2020,144.3
+Simunjan,2021,145.4
+Simunjan,2022,146.2
+Simunjan,2023,148.5
+Sipitang,2020,151.5
+Sipitang,2021,150.3
+Sipitang,2022,152.8
+Sipitang,2023,157.4
+Song,2020,39.9
+Song,2021,40.0
+Song,2022,40.0
+Song,2023,40.4
+Sri Aman,2020,245.3
+Sri Aman,2021,245.6
+Sri Aman,2022,245.3
+Sri Aman,2023,244.8
+Subis,2020,229.2
+Subis,2021,234.8
+Subis,2022,226.2
+Subis,2023,228.4
+Tambunan,2020,126.7
+Tambunan,2021,126.7
+Tambunan,2022,128.2
+Tambunan,2023,130.7
+Tampin,2020,353.0
+Tampin,2021,354.9
+Tampin,2022,355.5
+Tampin,2023,359.2
+Tanah Merah,2020,603.5
+Tanah Merah,2021,609.5
+Tanah Merah,2022,615.0
+Tanah Merah,2023,623.1
+Tangkak,2020,653.8
+Tangkak,2021,656.4
+Tangkak,2022,658.2
+Tangkak,2023,667.4
+Tanjung Manis,2020,31.7
+Tanjung Manis,2021,32.3
+Tanjung Manis,2022,32.0
+Tanjung Manis,2023,32.1
+Tatau,2020,128.0
+Tatau,2021,129.6
+Tatau,2022,127.8
+Tatau,2023,129.2
+Tawau,2020,1490.6
+Tawau,2021,1495.8
+Tawau,2022,1478.4
+Tawau,2023,1575.4
+Tebedu,2020,101.1
+Tebedu,2021,101.1
+Tebedu,2022,101.2
+Tebedu,2023,101.5
+Telang Usan,2020,69.8
+Telang Usan,2021,69.7
+Telang Usan,2022,69.6
+Telang Usan,2023,70.2
+Telupid,2020,117.1
+Telupid,2021,118.5
+Telupid,2022,115.6
+Telupid,2023,121.4
+Temerloh,2020,676.2
+Temerloh,2021,677.5
+Temerloh,2022,685.6
+Temerloh,2023,698.7
+Tenom,2020,205.1
+Tenom,2021,206.3
+Tenom,2022,208.4
+Tenom,2023,211.7
+Timur Laut,2020,2226.1
+Timur Laut,2021,2214.2
+Timur Laut,2022,2207.0
+Timur Laut,2023,2245.4
+Tongod,2020,170.9
+Tongod,2021,169.0
+Tongod,2022,168.9
+Tongod,2023,175.9
+Tuaran,2020,542.9
+Tuaran,2021,545.8
+Tuaran,2022,548.3
+Tuaran,2023,559.9
+Tumpat,2020,720.1
+Tumpat,2021,726.9
+Tumpat,2022,735.1
+Tumpat,2023,745.0
+Ulu Langat,2020,5601.8
+Ulu Langat,2021,5573.1
+Ulu Langat,2022,5653.2
+Ulu Langat,2023,5838.9
+Ulu Selangor,2020,972.4
+Ulu Selangor,2021,974.1
+Ulu Selangor,2022,985.6
+Ulu Selangor,2023,1008.1
+W.P. Kuala Lumpur,2020,7928.2
+W.P. Kuala Lumpur,2021,7855.8
+W.P. Kuala Lumpur,2022,7844.7
+W.P. Kuala Lumpur,2023,7994.2
+W.P. Labuan,2020,380.7
+W.P. Labuan,2021,383.9
+W.P. Labuan,2022,387.2
+W.P. Labuan,2023,398.0
+W.P. Putrajaya,2020,436.8
+W.P. Putrajaya,2021,461.0
+W.P. Putrajaya,2022,468.0
+W.P. Putrajaya,2023,476.8
+Yan,2020,293.4
+Yan,2021,294.4
+Yan,2022,295.8
+Yan,2023,296.8
